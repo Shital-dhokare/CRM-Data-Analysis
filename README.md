@@ -36,7 +36,7 @@ It helps understand customer behavior, lead conversion trends, and overall busin
 - Region-wise lead distribution
 
 ### Dashboard Preview
-[CRM Lead Dashboard](crm_lead_dashboard.png)
+[CRM Lead Dashboard](Tableau_Lead_Dashboard.PNG)
 
 
 ---
