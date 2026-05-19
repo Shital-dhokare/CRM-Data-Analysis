@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on CRM (Customer Relationship Management) analytics using SQL, Excel, Tableau, and Power BI.
 
-The project analyzes lead generation, customer conversion, sales performance, and business insights through interactive dashboards and KPI tracking.
+The project analyzes lead generation, customer conversion, opportunity performance, and business insights through interactive dashboards and KPI tracking.
 
 It helps understand customer behavior, lead conversion trends, and overall business performance using data-driven analysis.
 
