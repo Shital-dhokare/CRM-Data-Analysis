@@ -48,7 +48,7 @@ It helps understand customer behavior, lead conversion trends, and overall busin
 - Loss Reason Analysis
 
 ### Dashboard Preview
-[CRM Sales Dashboard](crm_sales_dashboard.png)
+[CRM Sales Dashboard](Tableau_Opportunity_Dashboard.PNG)
 
 ---
 
